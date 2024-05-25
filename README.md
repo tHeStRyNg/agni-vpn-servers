@@ -1,5 +1,8 @@
-# agni-vpn-servers
-* PrivatePulse Agni VPN Servers List Below:
+# Private Pulse Agni No-Log Vpn Servers
+
+https://www.privatepulse.ch
+
+PrivatePulse Agni VPN Servers List Below:
 
 Please get the requried .ovpn files required and download the client and you should be ready to go.
 
